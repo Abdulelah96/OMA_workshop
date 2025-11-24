@@ -1,1 +1,3 @@
 pyOMA-2
+ipympl
+ipywidgets
