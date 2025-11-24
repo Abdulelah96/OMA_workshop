@@ -1,0 +1,2 @@
+pyoma2
+scipy
