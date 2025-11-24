@@ -27,25 +27,18 @@ The workshop notebook can be opened on Binder
 ## 🧩 Running on Binder
 
 You can explore and run each notebook interactively using **Binder**, without installing anything locally.  
-Each Binder link below will launch **classic Jupyter Notebook interface** in your browser and automatically open the corresponding notebook.
+The Binder link below will launch **classic Jupyter Notebook interface** in your browser and automatically open the corresponding notebook.
 
 > 💡 It may take a few minutes for Binder to start the first time (it’s building the environment).  
 > Once the environment is ready, notebooks will load instantly on subsequent launches.
 
----
+## 🧩 Run the Workshop Notebook on Binder
 
-### ** OMA Workshop**
+Click the button below to launch the OMA Workshop notebook online:
 
-This notebook introduces:
+[![Launch OMA Workshop](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Abdulelah96/OMA_workshop/main?filepath=Notebooks/OMA_Workshop.ipynb)
 
-- Signal processing fundamentals
-- Hands-on exercises using real turbine measurements
-- OMA practical implementation
-- Mode identification and comparison between operating states
 
-<!-- [![OMA Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OWI-Lab/FIRMEST_fatigue_assessment_workshop/main?filepath=Notebooks/1.Geometry_Resistance_OWIMetaDataBase.ipynb) -->
-
----
 
 <!-- ### **2️⃣ Load Processing**
 
@@ -54,7 +47,6 @@ This notebook covers preprocessing and conditioning of SCADA or simulation load 
 [![Launch Load Processing Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OWI-Lab/FIRMEST_fatigue_assessment_workshop/main?filepath=Notebooks/2.Load_Processing.ipynb)
 
 
----
 
 ### **3️⃣ Fatigue Assessment**
 
