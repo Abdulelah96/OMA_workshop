@@ -32,7 +32,11 @@ The Binder link below will launch **classic Jupyter Notebook interface** in your
 > 💡 It may take a few minutes for Binder to start the first time (it’s building the environment).  
 > Once the environment is ready, notebooks will load instantly on subsequent launches.
 
-[![Launch OMA Workshop](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Abdulelah96/OMA_workshop/main?filepath=Notebooks/OMA_Workshop.ipynb)
+1. Signal processing [![Launch Signal processing](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Abdulelah96/OMA_workshop/main?filepath=Notebooks/1.Signal_processing.ipynb)
+
+2. Offshore wind turbines [![Launch Offshore wind turbines](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Abdulelah96/OMA_workshop/main?filepath=Notebooks/2.Offshore_Wind_Turbines.ipynb)
+
+3. OMA [![Launch OMA](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Abdulelah96/OMA_workshop/main?filepath=Notebooks/3.OMA.ipynb)
 
 
 
